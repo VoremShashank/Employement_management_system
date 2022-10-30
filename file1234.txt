@@ -1,0 +1,7 @@
+Employee ID:1234
+Employee Name     :vorem
+Father's Name     :shashank
+Employee Contact  :9381789665
+Email Information :shashank@gmail.com
+Employee position :sde
+Employee Salary   :35,000
